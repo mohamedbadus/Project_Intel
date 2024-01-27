@@ -47,6 +47,7 @@ cd blood-donation-prediction
 ![219417310-711955c1-d763-4531-9a0f-88d021112950](https://github.com/mohamedbadus/Project_Intel/assets/116250693/f7e72986-ca26-43d1-b2ef-e15644810833)
 
 The grand idea behind oneAPI is to enable the use of one platform for a range of different hardware, hence developers would not have to use different languages, tools, and libraries when they code for CPUs and GPUs
+![Screenshot 2024-01-27 120612](https://github.com/mohamedbadus/Project_Intel/assets/116250693/e0c11c45-a7df-4940-b7d3-99273711eee8)
 
 ## Model Comparison
 
