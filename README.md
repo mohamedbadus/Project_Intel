@@ -22,8 +22,8 @@ Output Screenshots: #output-screenshots
 
 1. Clone the repository:
    
-```git clone https://github.com/your-username/blood-donation-prediction.git
-cd blood-donation-prediction```
+git clone https://github.com/your-username/blood-donation-prediction.git
+cd blood-donation-prediction
 
 2. Install the required dependencies:
    
@@ -45,9 +45,8 @@ The code is optimized using Intel OneAPI for enhanced performance. Key optimizat
 
 Patching Scikit-learn with Intel extensions:
 
-```from sklearnex import patch_sklearn
-
-patch_sklearn()```
+```from sklearnex import patch_sklearn```
+```patch_sklearn()```
 
 ## Model Comparison
 
