@@ -21,34 +21,43 @@ Output Screenshots: #output-screenshots
 ## Installation
 
 1. Clone the repository:
+   
   git clone https://github.com/your-username/blood-donation-prediction.git
 cd blood-donation-prediction
 
 2. Install the required dependencies:
+   
   pip install -r requirements.txt
 
 ## Usage
 
 1. Open the Jupyter notebook Final_Intel_prj.ipynb.
 2. Follow the instructions and run the cells to:
+   
       *Explore the data
+   
       *Train the machine learning model
+   
       *Launch the Gradio interface for real-time predictions
 ## Optimized Code
 
 The code is optimized using Intel OneAPI for enhanced performance. Key optimizations include:
 
-*Patching Scikit-learn with Intel extensions:
+Patching Scikit-learn with Intel extensions:
+
 from sklearnex import patch_sklearn
+
 patch_sklearn()
 
 ## Model Comparison
 
 We evaluated three machine learning models:
 
-Naive Bayes (chosen, accuracy 0.75)
-Logistic Regression (accuracy 0.74)
-Random Forest (accuracy 0.71)
+1. Naive Bayes (chosen, accuracy 0.75)
+
+2. Logistic Regression (accuracy 0.74)
+
+3. Random Forest (accuracy 0.71)
 
 Based on these results, we chose Naive Bayes as it provided the highest accuracy.
 
