@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for a system that predicts the likelihood of a person making a blood donation based on features such as name, blood group, and city. It leverages machine learning with a Naive Bayes algorithm and offers a user-friendly interface for real-time predictions.
+This repository houses the code for a predictive system designed to estimate the probability of an individual making a blood donation. The system utilizes machine learning, specifically employing a Naive Bayes algorithm, and takes into account various features such as the individual's name, blood group, and city. The implementation includes a user-friendly interface that facilitates real-time predictions, enhancing accessibility and usability for potential users.
 
 ## Table of Contents
 
@@ -39,15 +39,11 @@ cd blood-donation-prediction
       *Train the machine learning model
    
       *Launch the Gradio interface for real-time predictions
-## Optimized Code
+   
+## Why ONEAPI
+![219417310-711955c1-d763-4531-9a0f-88d021112950](https://github.com/mohamedbadus/Project_Intel/assets/116250693/f7e72986-ca26-43d1-b2ef-e15644810833)
 
-The code is optimized using Intel OneAPI for enhanced performance. Key optimizations include:
-
-Patching Scikit-learn with Intel extensions:
-
-```from sklearnex import patch_sklearn```
-
-```patch_sklearn()```
+The grand idea behind oneAPI is to enable the use of one platform for a range of different hardware, hence developers would not have to use different languages, tools, and libraries when they code for CPUs and GPUs
 
 ## Model Comparison
 
