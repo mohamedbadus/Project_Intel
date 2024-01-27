@@ -1,7 +1,8 @@
 # Blood Donation Prediction System
 
 ## Overview
-![istockphoto-1032496340-612x612](https://github.com/mohamedbadus/Project_Intel/assets/116250693/79288bdd-9e16-41a4-9858-a0f22e2bbd67)![download](https://github.com/mohamedbadus/Project_Intel/assets/116250693/5ff1c1b7-fac3-4f9f-ae77-1b109814d286)
+![istockphoto-1032496340-612x612](https://github.com/mohamedbadus/Project_Intel/assets/116250693/79288bdd-9e16-41a4-9858-a0f22e2bbd67)![download](https://github.com/mohamedbadus/Project_Intel/assets/116250693/c350e603-7a05-4922-9e54-f15678b42ea1)
+
 
 
 This repository hosts a predictive system utilizing a Naive Bayes algorithm to estimate the likelihood of an individual participating in blood donation. Factors such as the person's name, blood group, and city are considered. The implementation features a user-friendly interface for real-time predictions, enhancing accessibility. By combining machine learning with a thoughtful design, this system offers a comprehensive solution for predicting blood donation probabilities, catering to both accuracy and user engagement.
