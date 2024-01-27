@@ -6,11 +6,16 @@ This repository contains the code for a system that predicts the likelihood of a
 
 ## Table of Contents
 
-Installation: #installation\n
+Installation: #installation
+
 Usage: #usage
+
 Optimized Code: #optimized-code
+
 Model Comparison: #model-comparison
+
 Demo: #demo
+
 Output Screenshots: #output-screenshots
 
 ## Installation
