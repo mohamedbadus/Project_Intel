@@ -13,7 +13,7 @@ Installation: #installation
 
 Usage: #usage
 
-Optimized Code: #optimized-code
+Why ONEAPI: #Why ONEAPI
 
 Model Comparison: #model-comparison
 
